@@ -46,6 +46,7 @@ I love learning new techs and using new tools. I also challenge myself everyday 
 <img src="https://img.icons8.com/fluency/48/null/node-js.png"/>
 <img src="https://img.icons8.com/fluency/48/null/express-js.png"/>
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/>
+<br>
 <img src="https://img.icons8.com/color/48/null/tailwindcss.png"/>
 <img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
 <img src="https://img.icons8.com/color/48/null/sass.png"/>
