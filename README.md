@@ -16,7 +16,7 @@ I love learning new techs and using new tools.
 
 <br />
 
-[![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedfahim21&show_icons=true&theme=dracula)](https://github.com/ahmedfahim21/github-readme-stats)
+[![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedfahim21&show_icons=true&theme=dracula&count_private=true)](https://github.com/ahmedfahim21/github-readme-stats)
 <br />
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfahim21&layout=compact&show_icons=true&theme=dracula)](https://github.com/ahmedfahim21/github-readme-stats)
