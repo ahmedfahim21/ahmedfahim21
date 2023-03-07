@@ -3,12 +3,6 @@
 <a href="https://www.linkedin.com/in/fahim-ahmed-35142a256" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/ahmedfahim_21" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/ahmed.fahim21" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 <br />
 
 <br />
@@ -16,16 +10,16 @@
 I'm a B.Tech student at the National Institute of Techonology Karnataka Surathkal 🎓
 <br />
 
-I love learning new techs and using new tools. I also challenge myself everyday to get better at something.
+I love learning new techs and using new tools.
 
 <br />
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedfahim21&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Fahim Github Stats">
+[![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedfahim21&show_icons=true&theme=dracula)](https://github.com/ahmedfahim21/github-readme-stats)
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfahim21&layout=compact&theme=dark&bg_color=0A0A0A" alt="Fahim Top Languages"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfahim21&layout=compact&show_icons=true&theme=dracula)](https://github.com/ahmedfahim21/github-readme-stats)
 <br />
 <br />
 <br />
