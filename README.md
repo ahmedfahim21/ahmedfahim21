@@ -1,40 +1,11 @@
-<h1 align="center">I'm Fahim 🧑🏻‍💻</h1>
-<p align="center">
-  <b>full-stack dev</b> • <b>web3 curious</b> • <b>figma pixel pusher</b> • alum @ <b>NIT Karnataka</b>  <br/>
-  <i>mostly building. forever learning.</i>
-</p>
+<h1>Hey, I'm Fahim 🧑🏻‍💻</h1>
 
----
+- I am currently a software engineer at [Morgan Stanley](https://www.morganstanley.com/)
+- Graduated in 2025 from [NITK Surathkal](https://www.nitk.ac.in/)
+- Won 7 hackathons, including [PLGenesis](https://www.plgenesis.com/), one of the largest global web3 hackathons
+- Led [IRIS](https://about.iris.nitk.ac.in/), NITK's student-built ERP system with a 50+ member team shipping software used by the whole campus
+- I enjoy building and shipping across web, blockchain and AI
 
-<p align="center">
-  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  
-</p>
+**Elsewhere:** [ahmedfahim.dev](https://ahmedfahim.dev) · [LinkedIn](https://www.linkedin.com/in/fahim-ahmed-35142a256) · [X](https://x.com/ahmedfahim21_)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfahim21&show_icons=true&theme=dracula&count_private=true&hide_border=true&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfahim21&layout=compact&theme=dracula&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-ahmed-35142a256)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedfahim21)
-
-</p>
 
